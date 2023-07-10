@@ -4,6 +4,12 @@
 
 
   - [Active Directory Home Lab]
+Developed content for, as well as performing the following tasks:
+• Active Directory Administration:
+  -PowerShell: Automated provision, maintaining, and de-provisioning user accounts
+• Setting up Remote Access Server (RAS) features to support NAT/PAT
+• Implementation and maintenance of Windows DNS and DHCP services
+• Configuration of Windows File Servers with the implementation of quotas and NTFS permissions
 
 <h3> Certification</h3>
 - Cisco Certified Support Technician (CCST) Cybersecurity
