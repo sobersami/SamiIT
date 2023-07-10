@@ -2,9 +2,27 @@
 
 <h2>👨‍💻 IT/Cyber Security Projects:</h2>
 
+[Security Analyst / Content Creator]
 
-  - [Active Directory Home Lab]
-    
+05/2023 - Present
+
+Developed content for, as well as perform the following tasks for Azure Sentinel (SIEM):
+
+• Used custom PowerShell script to extract metadata from Windows Event Viewer to be forwarded to third-party API in order to derive geolocation data
+
+• Configured Log Analytics Workspace in Azure to ingest custom logs containing geographic information (latitude, longitude, state/province, and country)
+
+• Configured Custom Fields in Log Analytics Workspace with the intent of mapping geo data in
+Azure Sentinel
+
+• Configured Azure Sentinel (Microsoft's cloud SIEM) workbook to display global attack data (RDP brute force) on a world map according to physical location and magnitude of attacks.
+
+
+
+ [System administration/Content creator]
+ 
+ 05/2023 - Present
+ 
 Developed content for, as well as performing the following tasks:
 
 • Active Directory Administration:
